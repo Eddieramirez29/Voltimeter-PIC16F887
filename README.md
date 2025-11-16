@@ -29,4 +29,4 @@ Where:\
 
 Use the following line to include the simulation image:
 
-    ![Simulation](./voltimeter_proteus.png)
+    ![Simulation](./proteus.png)
